@@ -2968,7 +2968,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Your opponent's Active Pokémon is now Poison."
+        "text": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
@@ -5534,7 +5534,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40+",
-        "text": "Flip 2 coins. This attack 20 more damage for each heads."
+        "text": "Flip 2 coins. This attack does 20 more damage for each heads."
       }
     ],
     "weaknesses": [
@@ -6555,7 +6555,7 @@
     "number": "107",
     "artist": "Kyoko Umemoto",
     "rarity": "Rare",
-    "flavorText": "It busily makes its nest withs stacks of branches and roots it has cut up with its sharp incisors.",
+    "flavorText": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
     "nationalPokedexNumbers": [
       400
     ],
@@ -7291,6 +7291,7 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {

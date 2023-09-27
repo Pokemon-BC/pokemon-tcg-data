@@ -2235,7 +2235,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search for deck for up to 3 Frogadier and put them onto your Bench. Shuffle your deck afterward."
+        "text": "Search your deck for up to 3 Frogadier and put them onto your Bench. Shuffle your deck afterward."
       }
     ],
     "weaknesses": [
@@ -5974,8 +5974,7 @@
       "Item"
     ],
     "rules": [
-      "If you played 1 card, look at the top 3 cards of your deck and put them back in any order.",
-      "If you played 2 cards, put 2 cards from your discard pile into your hand.",
+      "You may play 2 Puzzle of Time cards at once.\n• If you played 1 card, look at the top 3 cards of your deck and put them back in any order.\n• If you played 2 cards, put 2 cards from your discard pile into your hand.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "number": "109",
@@ -6617,7 +6616,6 @@
     "rarity": "Rare Ultra",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {

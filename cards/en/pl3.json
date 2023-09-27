@@ -945,7 +945,7 @@
     "abilities": [
       {
         "name": "Extreme Speed",
-        "text": "Arcanine G‘s Retreat Cost is Colorless less for each Fire Energy attached to Arcanine G.",
+        "text": "Arcanine G's Retreat Cost is Colorless less for each Fire Energy attached to Arcanine G.",
         "type": "Poké-Body"
       }
     ],
@@ -1072,7 +1072,7 @@
     "abilities": [
       {
         "name": "Compound Eyes",
-        "text": "If your opponent's Active Pokémon has any Poké-Bodies, each of Butterfree FB‘s attacks does 30 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+        "text": "If your opponent's Active Pokémon has any Poké-Bodies, each of Butterfree FB's attacks does 30 more damage to the Active Pokémon (before applying Weakness and Resistance).",
         "type": "Poké-Body"
       }
     ],
@@ -1189,7 +1189,8 @@
     "name": "Camerupt G",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "SP"
     ],
     "level": "57",
     "hp": "100",
@@ -1885,7 +1886,8 @@
     "name": "Lickilicky C",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "SP"
     ],
     "level": "57",
     "hp": "90",
@@ -3433,7 +3435,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30×",
-        "text": "Flip 3 coins. This attack does 30 damage times the numbers of heads. Cherrim is now Confused."
+        "text": "Flip 3 coins. This attack does 30 damage times the number of heads. Cherrim is now Confused."
       }
     ],
     "weaknesses": [
@@ -3863,7 +3865,7 @@
     "types": [
       "Grass"
     ],
-    "evolvesFrom": "Bulbasuar",
+    "evolvesFrom": "Bulbasaur",
     "evolvesTo": [
       "Venusaur"
     ],

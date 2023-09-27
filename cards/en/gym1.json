@@ -965,7 +965,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "20",
-        "text": "If your opponent has any Benched Pokémon, choose up to 3 of them. This attack does 10 damgae to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        "text": "If your opponent has any Benched Pokémon, choose up to 3 of them. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Fissure",
@@ -6061,7 +6061,6 @@
     ],
     "number": "127",
     "artist": "Keiji Kinebuchi",
-    "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -6081,7 +6080,6 @@
     ],
     "number": "128",
     "artist": "Keiji Kinebuchi",
-    "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -6101,7 +6099,6 @@
     ],
     "number": "129",
     "artist": "Keiji Kinebuchi",
-    "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -6121,7 +6118,6 @@
     ],
     "number": "130",
     "artist": "Keiji Kinebuchi",
-    "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -6141,7 +6137,6 @@
     ],
     "number": "131",
     "artist": "Keiji Kinebuchi",
-    "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -6161,7 +6156,6 @@
     ],
     "number": "132",
     "artist": "Keiji Kinebuchi",
-    "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",

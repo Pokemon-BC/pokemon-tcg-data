@@ -5538,6 +5538,9 @@
     "id": "ex11-98",
     "name": "Holon Transceiver",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
     "rules": [
       "Search your deck for a Supporter card that has Holon in its name, show it to your opponent, and put it into your hand. Shuffle your deck afterward. Or, search your discard pile for a Supporter card that has Holon in its name, show it to your opponent, and put it into your hand."
     ],
@@ -5757,7 +5760,6 @@
       "Stage 1",
       "EX"
     ],
-    "level": "ex",
     "hp": "110",
     "types": [
       "Fire"
@@ -5828,7 +5830,6 @@
       "Stage 1",
       "EX"
     ],
-    "level": "ex",
     "hp": "100",
     "types": [
       "Lightning"
@@ -5901,7 +5902,6 @@
       "Stage 1",
       "EX"
     ],
-    "level": "ex",
     "hp": "120",
     "types": [
       "Water"
@@ -5966,7 +5966,7 @@
   },
   {
     "id": "ex11-111",
-    "name": "Groudon Star",
+    "name": "Groudon ★",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
@@ -6031,7 +6031,7 @@
   },
   {
     "id": "ex11-112",
-    "name": "Kyogre Star",
+    "name": "Kyogre ★",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
@@ -6096,7 +6096,7 @@
   },
   {
     "id": "ex11-113",
-    "name": "Metagross Star",
+    "name": "Metagross ★",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
@@ -6209,7 +6209,7 @@
     "convertedRetreatCost": 1,
     "number": "114",
     "artist": "Kagemaru Himeno",
-    "rarity": "Rare Holo",
+    "rarity": "Rare Secret",
     "nationalPokedexNumbers": [
       184
     ],

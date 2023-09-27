@@ -1180,7 +1180,8 @@
     "name": "Buzzwole",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ultra Beast"
     ],
     "hp": "130",
     "types": [
@@ -4294,6 +4295,7 @@
     "types": [
       "Lightning"
     ],
+    "evolvesFrom": "Chinchou",
     "abilities": [
       {
         "name": "Blinking Lights",
@@ -6240,7 +6242,8 @@
     "name": "Blacephalon",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ultra Beast"
     ],
     "hp": "110",
     "types": [
@@ -8225,7 +8228,8 @@
     "name": "Guzzlord",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ultra Beast"
     ],
     "hp": "150",
     "types": [
@@ -9691,7 +9695,8 @@
     "subtypes": [
       "Basic",
       "TAG TEAM",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "280",
     "types": [
@@ -10057,7 +10062,8 @@
     "name": "Ultra Necrozma",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ultra Beast"
     ],
     "hp": "110",
     "types": [
@@ -11871,6 +11877,7 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {
@@ -12862,7 +12869,8 @@
     "subtypes": [
       "Basic",
       "TAG TEAM",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "280",
     "types": [
@@ -12935,7 +12943,8 @@
     "subtypes": [
       "Basic",
       "TAG TEAM",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "280",
     "types": [
@@ -14937,7 +14946,8 @@
     "subtypes": [
       "Basic",
       "TAG TEAM",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "280",
     "types": [

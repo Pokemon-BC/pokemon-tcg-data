@@ -346,7 +346,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -400,7 +399,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -460,7 +458,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -525,7 +522,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -591,7 +587,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -644,7 +639,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -706,7 +700,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -769,7 +762,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -999,7 +991,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -1062,7 +1053,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -1128,7 +1118,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -1232,7 +1221,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -1690,7 +1678,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -1750,7 +1737,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -1803,7 +1789,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -1864,7 +1849,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -1925,7 +1909,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -1983,7 +1966,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2043,9 +2025,9 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "D",
     "images": {
       "small": "https://images.pokemontcg.io/swsh45/35.png",
       "large": "https://images.pokemontcg.io/swsh45/35_hires.png"
@@ -2102,9 +2084,9 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "D",
     "images": {
       "small": "https://images.pokemontcg.io/swsh45/36.png",
       "large": "https://images.pokemontcg.io/swsh45/36_hires.png"
@@ -2166,7 +2148,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2221,7 +2202,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2290,7 +2270,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2315,7 +2294,7 @@
     ],
     "attacks": [
       {
-        "name": "Land’s Pulse",
+        "name": "Land's Pulse",
         "cost": [
           "Fighting"
         ],
@@ -2343,7 +2322,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2396,7 +2374,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2456,7 +2433,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2519,7 +2495,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2580,7 +2555,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2645,7 +2619,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2706,7 +2679,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2759,7 +2731,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2821,7 +2792,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2884,7 +2854,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -2945,7 +2914,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3002,7 +2970,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3072,7 +3039,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3138,7 +3104,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3208,7 +3173,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3270,7 +3234,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3330,7 +3293,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3355,7 +3317,6 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3380,7 +3341,7 @@
     "rarity": "Rare",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
+      "standard":"Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3405,7 +3366,6 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3430,7 +3390,7 @@
     "rarity": "Rare",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
+      "standard":"Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3456,7 +3416,6 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3482,7 +3441,6 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3507,7 +3465,6 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3572,7 +3529,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3597,7 +3553,6 @@
     "rarity": "Rare Ultra",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3622,7 +3577,6 @@
     "rarity": "Rare Ultra",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3647,7 +3601,6 @@
     "rarity": "Rare Ultra",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3672,7 +3625,6 @@
     "rarity": "Rare Ultra",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3697,7 +3649,6 @@
     "rarity": "Rare Ultra",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3722,7 +3673,6 @@
     "rarity": "Rare Ultra",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3747,7 +3697,6 @@
     "rarity": "Rare Ultra",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3772,7 +3721,6 @@
     "rarity": "Rare Ultra",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",
@@ -3837,7 +3785,6 @@
     ],
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "D",

@@ -1140,7 +1140,7 @@
     "abilities": [
       {
         "name": "Safeguard",
-        "text": "Prevent all effects of attacks, including damage, done to Ninetails by your opponent's Pokémon-ex.",
+        "text": "Prevent all effects of attacks, including damage, done to Ninetales by your opponent's Pokémon-ex.",
         "type": "Poké-Body"
       }
     ],
@@ -4707,7 +4707,6 @@
       "Basic",
       "EX"
     ],
-    "level": "ex",
     "hp": "100",
     "types": [
       "Darkness"
@@ -4772,7 +4771,6 @@
       "Stage 1",
       "EX"
     ],
-    "level": "ex",
     "hp": "120",
     "types": [
       "Psychic"
@@ -4844,7 +4842,6 @@
       "Stage 2",
       "EX"
     ],
-    "level": "ex",
     "hp": "150",
     "types": [
       "Colorless"
@@ -4911,7 +4908,6 @@
       "Stage 2",
       "EX"
     ],
-    "level": "ex",
     "hp": "150",
     "types": [
       "Metal"
@@ -4981,7 +4977,6 @@
       "Stage 2",
       "EX"
     ],
-    "level": "ex",
     "hp": "160",
     "types": [
       "Colorless"
@@ -5059,7 +5054,6 @@
       "Stage 2",
       "EX"
     ],
-    "level": "ex",
     "hp": "140",
     "types": [
       "Darkness"
@@ -5128,7 +5122,6 @@
       "Basic",
       "EX"
     ],
-    "level": "ex",
     "hp": "100",
     "types": [
       "Metal"
@@ -5204,7 +5197,6 @@
       "Stage 2",
       "EX"
     ],
-    "level": "ex",
     "hp": "150",
     "types": [
       "Water"
@@ -5261,7 +5253,7 @@
   },
   {
     "id": "ex16-100",
-    "name": "Flareon Star",
+    "name": "Flareon ★",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
@@ -5320,7 +5312,7 @@
   },
   {
     "id": "ex16-101",
-    "name": "Jolteon Star",
+    "name": "Jolteon ★",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
@@ -5385,7 +5377,7 @@
   },
   {
     "id": "ex16-102",
-    "name": "Vaporeon Star",
+    "name": "Vaporeon ★",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",

@@ -400,7 +400,7 @@
     "types": [
       "Colorless"
     ],
-    "evolvesFrom": "Porygon 2",
+    "evolvesFrom": "Porygon2",
     "abilities": [
       {
         "name": "Dimension Transfer",
@@ -5778,7 +5778,8 @@
     "artist": "Shinji Higuchi + Noriko Takaya",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      488
+      488,
+      491
     ],
     "legalities": {
       "unlimited": "Legal"
@@ -5846,7 +5847,8 @@
     "artist": "Shinji Higuchi + Noriko Takaya",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      488
+      488,
+      491
     ],
     "legalities": {
       "unlimited": "Legal"
@@ -5916,7 +5918,8 @@
     "artist": "Shinji Higuchi + Sachiko Eba",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      483
+      483,
+      484
     ],
     "legalities": {
       "unlimited": "Legal"
@@ -5986,7 +5989,8 @@
     "artist": "Shinji Higuchi + Sachiko Eba",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      483
+      483,
+      484
     ],
     "legalities": {
       "unlimited": "Legal"

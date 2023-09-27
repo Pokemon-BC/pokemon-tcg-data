@@ -18,7 +18,7 @@
         ],
         "name": "Sacred Fire",
         "damage": "",
-        "text": "This attack does 50 damage to 1 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
         "convertedEnergyCost": 2
       },
       {
@@ -53,6 +53,7 @@
     "number": "1",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
+    "flavorText": "It will reveal itself before a pure-hearted Trainer by shining its bright, rainbow-colored wings.",
     "nationalPokedexNumbers": [
       250
     ],
@@ -61,6 +62,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/1.png",
       "large": "https://images.pokemontcg.io/cel25/1_hires.png"
@@ -85,7 +87,7 @@
         ],
         "name": "Scorching Wind",
         "damage": "",
-        "text": "This attack does 20 damage to each of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "text": "This attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
         "convertedEnergyCost": 2
       },
       {
@@ -115,6 +117,7 @@
     "number": "2",
     "artist": "Aya Kusube",
     "rarity": "Rare",
+    "flavorText": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
     "nationalPokedexNumbers": [
       643
     ],
@@ -123,6 +126,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/2.png",
       "large": "https://images.pokemontcg.io/cel25/2_hires.png"
@@ -148,7 +152,7 @@
         ],
         "name": "Aqua Storm",
         "damage": "",
-        "text": "Discard the top 5 cards of your deck, and then choose 2 of your opponent’s Benched Pokémon. This attack does 50 damage for each Energy card you discarded in this way to each of those Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "text": "Discard the top 5 cards of your deck, and then choose 2 of your opponent's Benched Pokémon. This attack does 50 damage for each Energy card you discarded in this way to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
         "convertedEnergyCost": 3
       },
       {
@@ -179,6 +183,7 @@
     "number": "3",
     "artist": "Ryuta Fuse",
     "rarity": "Rare",
+    "flavorText": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
     "nationalPokedexNumbers": [
       382
     ],
@@ -187,6 +192,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/3.png",
       "large": "https://images.pokemontcg.io/cel25/3_hires.png"
@@ -207,7 +213,7 @@
       {
         "type": "Ability",
         "name": "Absolute Space",
-        "text": "As long as this Pokémon is in the Active Spot, your opponent can’t play any Stadium cards from their hand."
+        "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand."
       }
     ],
     "attacks": [
@@ -219,7 +225,7 @@
         ],
         "name": "Overdrive Smash",
         "damage": "80+",
-        "text": "During your next turn, this Pokémon’s Overdrive Smash attack does 80 more damage (before applying Weakness and Resistance).",
+        "text": "During your next turn, this Pokémon's Overdrive Smash attack does 80 more damage (before applying Weakness and Resistance).",
         "convertedEnergyCost": 3
       }
     ],
@@ -237,6 +243,7 @@
     "number": "4",
     "artist": "5ban Graphics",
     "rarity": "Rare",
+    "flavorText": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
     "nationalPokedexNumbers": [
       484
     ],
@@ -245,6 +252,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/4.png",
       "large": "https://images.pokemontcg.io/cel25/4_hires.png"
@@ -298,6 +306,7 @@
     "number": "5",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
+    "flavorText": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
     "nationalPokedexNumbers": [
       25
     ],
@@ -306,6 +315,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/5.png",
       "large": "https://images.pokemontcg.io/cel25/5_hires.png"
@@ -336,7 +346,7 @@
         ],
         "name": "Thunder Shock",
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "convertedEnergyCost": 1
       },
       {
@@ -347,7 +357,7 @@
         ],
         "name": "Fly",
         "damage": "120",
-        "text": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent’s next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+        "text": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
         "convertedEnergyCost": 3
       }
     ],
@@ -365,7 +375,7 @@
     ],
     "number": "6",
     "artist": "aky CG Works",
-    "rarity": "V",
+    "rarity": "Rare Holo V",
     "nationalPokedexNumbers": [
       25
     ],
@@ -374,6 +384,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/6.png",
       "large": "https://images.pokemontcg.io/cel25/6_hires.png"
@@ -406,7 +417,7 @@
         ],
         "name": "Max Balloon",
         "damage": "160",
-        "text": "During your opponent’s next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+        "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
         "convertedEnergyCost": 3
       }
     ],
@@ -424,7 +435,7 @@
     ],
     "number": "7",
     "artist": "aky CG Works",
-    "rarity": "VM",
+    "rarity": "Rare Holo VMAX",
     "nationalPokedexNumbers": [
       25
     ],
@@ -433,6 +444,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/7.png",
       "large": "https://images.pokemontcg.io/cel25/7_hires.png"
@@ -481,7 +493,7 @@
     "convertedRetreatCost": 1,
     "number": "8",
     "artist": "aky CG Works",
-    "rarity": "V",
+    "rarity": "Rare Holo V",
     "nationalPokedexNumbers": [
       25
     ],
@@ -490,6 +502,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/8.png",
       "large": "https://images.pokemontcg.io/cel25/8_hires.png"
@@ -522,7 +535,7 @@
         ],
         "name": "Max Surfer",
         "damage": "160",
-        "text": "This attack also does 30 damage to each of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "text": "This attack also does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
         "convertedEnergyCost": 3
       }
     ],
@@ -538,7 +551,7 @@
     "convertedRetreatCost": 1,
     "number": "9",
     "artist": "aky CG Works",
-    "rarity": "VM",
+    "rarity": "Rare Holo VMAX",
     "nationalPokedexNumbers": [
       25
     ],
@@ -547,6 +560,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/9.png",
       "large": "https://images.pokemontcg.io/cel25/9_hires.png"
@@ -601,6 +615,7 @@
     "number": "10",
     "artist": "Aya Kusube",
     "rarity": "Rare",
+    "flavorText": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
     "nationalPokedexNumbers": [
       644
     ],
@@ -609,6 +624,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/10.png",
       "large": "https://images.pokemontcg.io/cel25/10_hires.png"
@@ -663,6 +679,7 @@
     "number": "11",
     "artist": "Yuu Nishida",
     "rarity": "Rare Holo",
+    "flavorText": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
     "nationalPokedexNumbers": [
       151
     ],
@@ -671,6 +688,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/11.png",
       "large": "https://images.pokemontcg.io/cel25/11_hires.png"
@@ -724,6 +742,7 @@
     "number": "12",
     "artist": "AKIRA EGAWA",
     "rarity": "Rare",
+    "flavorText": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life.",
     "nationalPokedexNumbers": [
       716
     ],
@@ -732,6 +751,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/12.png",
       "large": "https://images.pokemontcg.io/cel25/12_hires.png"
@@ -758,7 +778,7 @@
         ],
         "name": "Star Protection",
         "damage": "",
-        "text": "Flip a coin. If heads, during your opponent’s next turn, prevent all damage done to this Pokémon by attacks.",
+        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.",
         "convertedEnergyCost": 1
       }
     ],
@@ -781,6 +801,7 @@
     "number": "13",
     "artist": "kirisAki",
     "rarity": "Rare",
+    "flavorText": "Whether or not it's a Pokémon from this world is a mystery. When it's in a jam, it warps away to a safe place to hide.",
     "nationalPokedexNumbers": [
       789
     ],
@@ -789,6 +810,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/13.png",
       "large": "https://images.pokemontcg.io/cel25/13_hires.png"
@@ -817,7 +839,7 @@
         ],
         "name": "Star Protection",
         "damage": "",
-        "text": "Flip a coin. If heads, during your opponent’s next turn, prevent all damage done to this Pokémon by attacks.",
+        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.",
         "convertedEnergyCost": 1
       }
     ],
@@ -842,6 +864,7 @@
     "number": "14",
     "artist": "kirisAki",
     "rarity": "Rare",
+    "flavorText": "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
     "nationalPokedexNumbers": [
       790
     ],
@@ -850,6 +873,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/14.png",
       "large": "https://images.pokemontcg.io/cel25/14_hires.png"
@@ -875,7 +899,7 @@
         ],
         "name": "Lunar Pain",
         "damage": "",
-        "text": "Double the number of damage counters on each of your opponent’s Pokémon.",
+        "text": "Double the number of damage counters on each of your opponent's Pokémon.",
         "convertedEnergyCost": 2
       },
       {
@@ -886,7 +910,7 @@
         ],
         "name": "Psychic Shot",
         "damage": "130",
-        "text": "This attack also does 30 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
         "convertedEnergyCost": 3
       }
     ],
@@ -910,6 +934,7 @@
     "number": "15",
     "artist": "kirisAki",
     "rarity": "Rare Holo",
+    "flavorText": "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.",
     "nationalPokedexNumbers": [
       792
     ],
@@ -918,6 +943,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/15.png",
       "large": "https://images.pokemontcg.io/cel25/15_hires.png"
@@ -928,6 +954,7 @@
     "name": "Zacian V",
     "supertype": "Pokémon",
     "subtypes": [
+      "Basic",
       "V"
     ],
     "hp": "220",
@@ -970,7 +997,7 @@
     "convertedRetreatCost": 2,
     "number": "16",
     "artist": "Mitsuhiro Arita",
-    "rarity": "V",
+    "rarity": "Rare Holo V",
     "nationalPokedexNumbers": [
       888
     ],
@@ -979,6 +1006,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/16.png",
       "large": "https://images.pokemontcg.io/cel25/16_hires.png"
@@ -1035,6 +1063,7 @@
     "number": "17",
     "artist": "Ryuta Fuse",
     "rarity": "Rare",
+    "flavorText": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
     "nationalPokedexNumbers": [
       383
     ],
@@ -1043,6 +1072,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/17.png",
       "large": "https://images.pokemontcg.io/cel25/17_hires.png"
@@ -1053,6 +1083,7 @@
     "name": "Zamazenta V",
     "supertype": "Pokémon",
     "subtypes": [
+      "Basic",
       "V"
     ],
     "hp": "220",
@@ -1066,7 +1097,7 @@
       {
         "type": "Ability",
         "name": "Growl of the Shield",
-        "text": "All of your Fighting Pokémon take 20 less damage from attacks from your opponent’s Pokémon VMAX (after applying Weakness and Resistance). You can’t apply more than 1 Growl of the Shield Ability at a time."
+        "text": "All of your Fighting Pokémon take 20 less damage from attacks from your opponent's Pokémon VMAX (after applying Weakness and Resistance). You can't apply more than 1 Growl of the Shield Ability at a time."
       }
     ],
     "attacks": [
@@ -1095,7 +1126,7 @@
     "convertedRetreatCost": 2,
     "number": "18",
     "artist": "Mitsuhiro Arita",
-    "rarity": "V",
+    "rarity": "Rare Holo V",
     "nationalPokedexNumbers": [
       889
     ],
@@ -1104,6 +1135,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/18.png",
       "large": "https://images.pokemontcg.io/cel25/18_hires.png"
@@ -1128,7 +1160,7 @@
         ],
         "name": "Cry of Destruction",
         "damage": "",
-        "text": "Discard up to 3 Special Energy from your opponent’s Pokémon.",
+        "text": "Discard up to 3 Special Energy from your opponent's Pokémon.",
         "convertedEnergyCost": 2
       },
       {
@@ -1163,6 +1195,7 @@
     "number": "19",
     "artist": "AKIRA EGAWA",
     "rarity": "Rare",
+    "flavorText": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
     "nationalPokedexNumbers": [
       717
     ],
@@ -1171,6 +1204,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/19.png",
       "large": "https://images.pokemontcg.io/cel25/19_hires.png"
@@ -1229,6 +1263,7 @@
     "number": "20",
     "artist": "5ban Graphics",
     "rarity": "Rare",
+    "flavorText": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
     "nationalPokedexNumbers": [
       483
     ],
@@ -1237,6 +1272,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/20.png",
       "large": "https://images.pokemontcg.io/cel25/20_hires.png"
@@ -1293,6 +1329,7 @@
     "number": "21",
     "artist": "kirisAki",
     "rarity": "Rare Holo",
+    "flavorText": "In writings from the distant past, it's called by the name \"the beast that devours the sun.\"",
     "nationalPokedexNumbers": [
       791
     ],
@@ -1301,6 +1338,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/21.png",
       "large": "https://images.pokemontcg.io/cel25/21_hires.png"
@@ -1337,7 +1375,7 @@
         ],
         "name": "Deep Crush",
         "damage": "160",
-        "text": "During your next turn, this Pokémon can’t attack.",
+        "text": "During your next turn, this Pokémon can't attack.",
         "convertedEnergyCost": 4
       }
     ],
@@ -1361,6 +1399,7 @@
     "number": "22",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
+    "flavorText": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
     "nationalPokedexNumbers": [
       249
     ],
@@ -1369,6 +1408,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/22.png",
       "large": "https://images.pokemontcg.io/cel25/22_hires.png"
@@ -1376,13 +1416,14 @@
   },
   {
     "id": "cel25-23",
-    "name": "Professor’s Research (Professor Oak)",
+    "name": "Professor's Research (Professor Oak)",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Discard your hand and draw 7 cards."
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "23",
     "artist": "KIYOTAKA OSHIYAMA",
@@ -1392,6 +1433,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "D",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/23.png",
       "large": "https://images.pokemontcg.io/cel25/23_hires.png"
@@ -1399,13 +1441,14 @@
   },
   {
     "id": "cel25-24",
-    "name": "Professor’s Research (Professor Oak)",
+    "name": "Professor's Research (Professor Oak)",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Discard your hand and draw 7 cards."
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "24",
     "artist": "Ken Sugimori",
@@ -1415,6 +1458,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "D",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/24.png",
       "large": "https://images.pokemontcg.io/cel25/24_hires.png"
@@ -1469,6 +1513,7 @@
     "number": "25",
     "artist": "Saki Hayashiro",
     "rarity": "Rare Holo",
+    "flavorText": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
     "nationalPokedexNumbers": [
       151
     ],
@@ -1477,6 +1522,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "E",
     "images": {
       "small": "https://images.pokemontcg.io/cel25/25.png",
       "large": "https://images.pokemontcg.io/cel25/25_hires.png"

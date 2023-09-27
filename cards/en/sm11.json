@@ -4078,7 +4078,8 @@
     "name": "Xurkitree",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ultra Beast"
     ],
     "hp": "120",
     "types": [
@@ -6023,7 +6024,8 @@
     "name": "Poipole",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ultra Beast"
     ],
     "hp": "70",
     "types": [
@@ -7321,7 +7323,7 @@
     "abilities": [
       {
         "name": "Cellular Companions",
-        "text": "As long as this Pokémon is on your Bench, your Zygarde's and Zygarde-GX‘s attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+        "text": "As long as this Pokémon is on your Bench, your Zygarde's and Zygarde-GX's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -9573,7 +9575,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "210",
     "types": [
@@ -11222,6 +11225,7 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {
@@ -11787,6 +11791,7 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {
@@ -13035,7 +13040,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "210",
     "types": [
@@ -14110,7 +14116,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "210",
     "types": [

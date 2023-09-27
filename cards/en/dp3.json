@@ -450,7 +450,7 @@
     "abilities": [
       {
         "name": "Osmotic Pressure",
-        "text": "Once during your turn (before your attack), if you have Gastrodon West Sea in play, you may move up to 3 damage counters from Gastodon East Sea to 1 of your Gastrodon West Sea.",
+        "text": "Once during your turn (before your attack), if you have Gastrodon West Sea in play, you may move up to 3 damage counters from Gastrodon East Sea to 1 of your Gastrodon West Sea.",
         "type": "Poké-Power"
       }
     ],
@@ -602,7 +602,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "20×",
-        "text": "This attack does 20 damage time the number of different types of basic Energy cards attached to Ho-Oh."
+        "text": "This attack does 20 damage times the number of different types of basic Energy cards attached to Ho-Oh."
       }
     ],
     "weaknesses": [
@@ -2024,7 +2024,7 @@
     "types": [
       "Grass"
     ],
-    "evolvesFrom": "Evolves from Burmy",
+    "evolvesFrom": "Burmy",
     "attacks": [
       {
         "name": "Silver Wind",
@@ -5419,7 +5419,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips coin. If tails, that attack does nothing."
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
       }
     ],
     "weaknesses": [

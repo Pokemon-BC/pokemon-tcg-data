@@ -2404,6 +2404,7 @@
     "name": "Tapu Fini-GX",
     "supertype": "Pokémon",
     "subtypes": [
+      "Basic",
       "GX"
     ],
     "hp": "170",
@@ -5604,6 +5605,7 @@
     "name": "Darkrai-GX",
     "supertype": "Pokémon",
     "subtypes": [
+      "Basic",
       "GX"
     ],
     "hp": "180",
@@ -5991,6 +5993,7 @@
     "number": "92a",
     "artist": "Anesaki Dynamic",
     "rarity": "Uncommon",
+    "flavorText": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.",
     "nationalPokedexNumbers": [
       281
     ],
@@ -9879,7 +9882,7 @@
       "Item"
     ],
     "rules": [
-      "Choose 1:",
+      "Choose 1:\n• Put a Pokémon from your discard pile into your hand.\n• Shuffle 3 Pokémon from your discard pile into your deck.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "number": "165",

@@ -24,13 +24,19 @@
         "convertedEnergyCost": 1
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
     "retreatCost": [
       "Colorless"
     ],
     "convertedRetreatCost": 1,
     "number": "1",
     "artist": "Sekio",
-    "rarity": "Promo",
+    "flavorText": "When attacked by bird Pokémon, it resists by releasing a terrifically strong odor from its antennae, but it often becomes their prey.",
     "nationalPokedexNumbers": [
       10
     ],
@@ -66,6 +72,12 @@
         "convertedEnergyCost": 1
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
     "retreatCost": [
       "Colorless",
       "Colorless",
@@ -74,7 +86,7 @@
     "convertedRetreatCost": 3,
     "number": "2",
     "artist": "Satoshi Shirai",
-    "rarity": "Promo",
+    "flavorText": "As it grew taller and taller, it outgrew its reliance on psychic powers, while within it awakened the power of the sleeping dragon.",
     "nationalPokedexNumbers": [
       103
     ],
@@ -123,6 +135,12 @@
         "convertedEnergyCost": 3
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
     "retreatCost": [
       "Colorless",
       "Colorless"
@@ -130,7 +148,7 @@
     "convertedRetreatCost": 2,
     "number": "3",
     "artist": "Yumi",
-    "rarity": "Promo",
+    "flavorText": "When angered, it spouts brilliant fire from all over its body. It doesn't calm down until its opponent has burned to ash.",
     "nationalPokedexNumbers": [
       126
     ],
@@ -168,13 +186,19 @@
         "convertedEnergyCost": 0
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
     "retreatCost": [
       "Colorless"
     ],
     "convertedRetreatCost": 1,
     "number": "4",
     "artist": "Shin Nagasawa",
-    "rarity": "Promo",
+    "flavorText": "An ancient tradition of Alolan festivals, still carried on to this day, is a competition to slide Sandshrew across ice as far as one can.",
     "nationalPokedexNumbers": [
       27
     ],
@@ -212,13 +236,18 @@
         "cost": [
           "Colorless",
           "Colorless",
-          "Colorless",
-          "Water"
+          "Colorless"
         ],
         "name": "Hydro Pump",
-        "text": "This attack does 10 more damage times the amount of [W] Energy attached to this Pokémon.",
+        "text": "This attack does 10 more damage times the amount of Water Energy attached to this Pokémon.",
         "damage": "70+",
-        "convertedEnergyCost": 4
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -228,7 +257,7 @@
     "convertedRetreatCost": 2,
     "number": "5",
     "artist": "Saya Tsuruta",
-    "rarity": "Promo",
+    "flavorText": "These Pokémon were once near extinction due to poaching. Following protective regulations, there is now an overabundance of them.",
     "nationalPokedexNumbers": [
       131
     ],
@@ -266,13 +295,25 @@
         "convertedEnergyCost": 1
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
     "retreatCost": [
       "Colorless"
     ],
     "convertedRetreatCost": 1,
     "number": "6",
     "artist": "Kagemaru Himeno",
-    "rarity": "Promo",
+    "flavorText": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
     "nationalPokedexNumbers": [
       25
     ],
@@ -310,13 +351,25 @@
         "convertedEnergyCost": 1
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
     "retreatCost": [
       "Colorless"
     ],
     "convertedRetreatCost": 1,
     "number": "7",
     "artist": "Shibuzoh.",
-    "rarity": "Promo",
+    "flavorText": "Should a strange light be seen flickering in an abandoned building, Gastly is lurking there.",
     "nationalPokedexNumbers": [
       92
     ],
@@ -354,13 +407,19 @@
         "convertedEnergyCost": 1
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
     "retreatCost": [
       "Colorless"
     ],
     "convertedRetreatCost": 1,
     "number": "8",
     "artist": "Miki Tanaka",
-    "rarity": "Promo",
+    "flavorText": "It can spontaneously become enraged. Everyone near it clears out as it rampages, and the resulting loneliness makes it angrier still.",
     "nationalPokedexNumbers": [
       56
     ],
@@ -408,6 +467,12 @@
         "convertedEnergyCost": 2
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
     "retreatCost": [
       "Colorless",
       "Colorless"
@@ -415,7 +480,7 @@
     "convertedRetreatCost": 2,
     "number": "9",
     "artist": "Mitsuhiro Arita",
-    "rarity": "Promo",
+    "flavorText": "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
     "nationalPokedexNumbers": [
       95
     ],
@@ -453,13 +518,25 @@
         "convertedEnergyCost": 0
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
     "retreatCost": [
       "Colorless"
     ],
     "convertedRetreatCost": 1,
     "number": "10",
     "artist": "Akira Komayama",
-    "rarity": "Promo",
+    "flavorText": "When its delicate pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage.",
     "nationalPokedexNumbers": [
       52
     ],
@@ -487,12 +564,24 @@
     "attacks": [
       {
         "cost": [
-          "Metal"
+
         ],
         "name": "Gold Rush",
-        "text": "Discard any number of [M] Energy cards from your hand. This attack does 30 damage for each card you discarded in this way.",
+        "text": "Discard any number of Metal Energy cards from your hand. This attack does 30 damage for each card you discarded in this way.",
         "damage": "30",
-        "convertedEnergyCost": 1
+        "convertedEnergyCost": 0
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
       }
     ],
     "retreatCost": [
@@ -501,7 +590,7 @@
     "convertedRetreatCost": 1,
     "number": "11",
     "artist": "Megumi Mizutani",
-    "rarity": "Promo",
+    "flavorText": "This Pokémon are cherished in the Alola region, where they are thought to be feminine deities of the land incarnate.",
     "nationalPokedexNumbers": [
       51
     ],
@@ -546,13 +635,19 @@
         "convertedEnergyCost": 1
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
     "retreatCost": [
       "Colorless"
     ],
     "convertedRetreatCost": 1,
     "number": "12",
     "artist": "Atsuko Nishida",
-    "rarity": "Promo",
+    "flavorText": "Current studies show it can evolve into an incredible eight different species of Pokémon.",
     "nationalPokedexNumbers": [
       133
     ],

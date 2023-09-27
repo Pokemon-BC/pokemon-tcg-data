@@ -4550,7 +4550,8 @@
     "name": "Houndoom",
     "supertype": "Pokémon",
     "subtypes": [
-      "Stage 1"
+      "Stage 1",
+      "Prime"
     ],
     "hp": "110",
     "types": [
@@ -4916,7 +4917,8 @@
     "artist": "Shinji Higuchi + Sachiko Eba",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      382
+      382,
+      383
     ],
     "legalities": {
       "unlimited": "Legal"
@@ -4988,7 +4990,8 @@
     "artist": "Shinji Higuchi + Sachiko Eba",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      382
+      382,
+      383
     ],
     "legalities": {
       "unlimited": "Legal"
@@ -5055,7 +5058,8 @@
     "artist": "Shinji Higuchi + Sachiko Eba",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      384
+      384,
+      386
     ],
     "legalities": {
       "unlimited": "Legal"
@@ -5122,7 +5126,8 @@
     "artist": "Shinji Higuchi + Sachiko Eba",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      384
+      384,
+      386
     ],
     "legalities": {
       "unlimited": "Legal"

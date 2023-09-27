@@ -3686,7 +3686,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "180",
     "types": [
@@ -5422,7 +5423,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "190",
     "types": [
@@ -7518,7 +7520,7 @@
       "Item"
     ],
     "rules": [
-      "You may play 4 Missing Clover cards at once. • If you played 1 card, look at the top card of your deck. • If you played 4 cards, take a Prize card. (This effect works one time for 4 cards.)",
+      "You may play 4 Missing Clover cards at once.\n• If you played 1 card, look at the top card of your deck.\n• If you played 4 cards, take a Prize card. (This effect works one time for 4 cards.)",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "number": "129",
@@ -7644,6 +7646,7 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {
@@ -7842,7 +7845,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "170",
     "types": [
@@ -7986,7 +7990,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "180",
     "types": [
@@ -8062,7 +8067,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "180",
     "types": [
@@ -8140,7 +8146,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "200",
     "types": [
@@ -8226,7 +8233,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "190",
     "types": [
@@ -8765,7 +8773,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "170",
     "types": [
@@ -8909,7 +8918,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "180",
     "types": [
@@ -8985,7 +8995,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "180",
     "types": [
@@ -9063,7 +9074,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "200",
     "types": [
@@ -9149,7 +9161,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "190",
     "types": [
@@ -9437,7 +9450,7 @@
       "Item"
     ],
     "rules": [
-      "You may play 4 Missing Clover cards at once. • If you played 1 card, look at the top card of your deck. • If you played 4 cards, take a Prize card. (This effect works one time for 4 cards.)",
+      "You may play 4 Missing Clover cards at once.\n• If you played 1 card, look at the top card of your deck.\n• If you played 4 cards, take a Prize card. (This effect works one time for 4 cards.)",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "number": "168",

@@ -4974,7 +4974,6 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {
@@ -5185,7 +5184,6 @@
       "Stage 1",
       "EX"
     ],
-    "level": "ex",
     "hp": "160",
     "types": [
       "Colorless"
@@ -5256,7 +5254,6 @@
       "Stage 1",
       "EX"
     ],
-    "level": "ex",
     "hp": "110",
     "types": [
       "Psychic"
@@ -5323,7 +5320,6 @@
       "Stage 2",
       "EX"
     ],
-    "level": "ex",
     "hp": "150",
     "types": [
       "Water"
@@ -5397,7 +5393,6 @@
       "Basic",
       "EX"
     ],
-    "level": "ex",
     "hp": "110",
     "types": [
       "Fire"
@@ -5458,7 +5453,6 @@
       "Basic",
       "EX"
     ],
-    "level": "ex",
     "hp": "100",
     "types": [
       "Colorless"
@@ -5524,7 +5518,6 @@
       "Stage 2",
       "EX"
     ],
-    "level": "ex",
     "hp": "150",
     "types": [
       "Grass"
@@ -5609,7 +5602,6 @@
       "Stage 2",
       "EX"
     ],
-    "level": "ex",
     "hp": "150",
     "types": [
       "Water"
@@ -5687,7 +5679,6 @@
       "Stage 1",
       "EX"
     ],
-    "level": "ex",
     "hp": "120",
     "types": [
       "Metal"
@@ -5764,7 +5755,6 @@
       "Stage 1",
       "EX"
     ],
-    "level": "ex",
     "hp": "150",
     "types": [
       "Metal"
@@ -5855,7 +5845,6 @@
       "Stage 2",
       "EX"
     ],
-    "level": "ex",
     "hp": "150",
     "types": [
       "Fire"
@@ -5921,7 +5910,6 @@
       "Stage 2",
       "EX"
     ],
-    "level": "ex",
     "hp": "160",
     "types": [
       "Darkness"
@@ -6017,7 +6005,6 @@
       "Stage 1",
       "EX"
     ],
-    "level": "ex",
     "hp": "110",
     "types": [
       "Darkness"
@@ -6087,7 +6074,7 @@
   },
   {
     "id": "ex10-113",
-    "name": "Entei Star",
+    "name": "Entei ★",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
@@ -6149,7 +6136,7 @@
   },
   {
     "id": "ex10-114",
-    "name": "Raikou Star",
+    "name": "Raikou ★",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
@@ -6211,7 +6198,7 @@
   },
   {
     "id": "ex10-115",
-    "name": "Suicune Star",
+    "name": "Suicune ★",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
@@ -6279,7 +6266,6 @@
       "Stage 1",
       "EX"
     ],
-    "level": "ex",
     "hp": "100",
     "types": [
       "Darkness"
@@ -6320,7 +6306,7 @@
     "convertedRetreatCost": 1,
     "number": "116",
     "artist": "Mitsuhiro Arita",
-    "rarity": "Rare Holo EX",
+    "rarity": "Rare Secret",
     "nationalPokedexNumbers": [
       53
     ],
@@ -6340,7 +6326,6 @@
       "Basic",
       "EX"
     ],
-    "level": "ex",
     "hp": "70",
     "types": [
       "Grass"
@@ -6381,7 +6366,7 @@
     "convertedRetreatCost": 1,
     "number": "117",
     "artist": "Ryo Ueda",
-    "rarity": "Rare Holo EX",
+    "rarity": "Rare Secret",
     "nationalPokedexNumbers": [
       251
     ],

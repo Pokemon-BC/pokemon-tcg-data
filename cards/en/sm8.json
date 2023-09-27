@@ -3009,7 +3009,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "180",
     "types": [
@@ -6273,7 +6274,8 @@
     "name": "Nihilego",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ultra Beast"
     ],
     "hp": "110",
     "types": [
@@ -6330,7 +6332,8 @@
     "name": "Poipole",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ultra Beast"
     ],
     "hp": "70",
     "types": [
@@ -6391,7 +6394,8 @@
     "name": "Naganadel",
     "supertype": "Pokémon",
     "subtypes": [
-      "Stage 1"
+      "Stage 1",
+      "Ultra Beast"
     ],
     "hp": "130",
     "types": [
@@ -7512,7 +7516,7 @@
     "number": "126",
     "artist": "Anesaki Dynamic",
     "rarity": "Rare Holo",
-    "flavorText": "Once it has identified an enemy, this Pokémon smashes it mercilessly with pinces hard as steel.",
+    "flavorText": "Once it has identified an enemy, this Pokémon smashes it mercilessly with pincers hard as steel.",
     "nationalPokedexNumbers": [
       212
     ],
@@ -10157,7 +10161,7 @@
       "Item"
     ],
     "rules": [
-      "You may play 2 Custom Catcher cards at once.",
+      "You may play 2 Custom Catcher cards at once.\n• If you played 1 card, draw cards until you have 3 cards in your hand.\n• If you played 2 cards, switch 1 of your opponent's Benched Pokémon with their Active Pokémon. (This effects works one time for 2 cards.)",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "number": "171",
@@ -10492,7 +10496,7 @@
       "Item"
     ],
     "rules": [
-      "You may play 2 Mixed Herbs cards at once.",
+      "You may play 2 Mixed Herbs cards at once.\n• If you played 1 card, remove a Special Condition from your Active Pokémon.\n• If you played 2 cards, heal 90 damage and remove all Special Conditions from your Active Pokémon. (This effects works one time for 2 cards.)",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "number": "184",
@@ -11097,7 +11101,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "180",
     "types": [
@@ -11809,6 +11814,7 @@
     "rarity": "Rare Ultra",
     "legalities": {
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {
@@ -12218,7 +12224,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "GX"
+      "GX",
+      "Ultra Beast"
     ],
     "hp": "180",
     "types": [
@@ -12970,7 +12977,7 @@
       "Item"
     ],
     "rules": [
-      "You may play 2 Custom Catcher cards at once.",
+      "You may play 2 Custom Catcher cards at once.\n• If you played 1 card, draw cards until you have 3 cards in your hand.\n• If you played 2 cards, switch 1 of your opponent's Benched Pokémon with their Active Pokémon. (This effects works one time for 2 cards.)",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "number": "231",

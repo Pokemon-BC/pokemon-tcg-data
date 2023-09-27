@@ -4105,7 +4105,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 30 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness of Resistance."
+        "text": "This attack does 30 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance."
       },
       {
         "name": "Dream Waltz",
@@ -7455,7 +7455,7 @@
     "number": "124",
     "artist": "Kanako Eo",
     "rarity": "Uncommon",
-    "flavorText": "No matter where in the world it goes, it knows where its nest is, so it never gets seperated from its Trainer.",
+    "flavorText": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
     "nationalPokedexNumbers": [
       520
     ],
@@ -7775,7 +7775,6 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {
@@ -7835,7 +7834,8 @@
     "name": "Computer Search",
     "supertype": "Trainer",
     "subtypes": [
-      "Item"
+      "Item",
+      "ACE SPEC"
     ],
     "rules": [
       "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a card and put it into your hand. Shuffle your deck afterward.",
@@ -7859,7 +7859,8 @@
     "name": "Crystal Edge",
     "supertype": "Trainer",
     "subtypes": [
-      "Pokémon Tool"
+      "Pokémon Tool",
+      "ACE SPEC"
     ],
     "rules": [
       "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
@@ -7884,7 +7885,8 @@
     "name": "Crystal Wall",
     "supertype": "Trainer",
     "subtypes": [
-      "Pokémon Tool"
+      "Pokémon Tool",
+      "ACE SPEC"
     ],
     "rules": [
       "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
@@ -7909,7 +7911,8 @@
     "name": "Gold Potion",
     "supertype": "Trainer",
     "subtypes": [
-      "Item"
+      "Item",
+      "ACE SPEC"
     ],
     "rules": [
       "Heal 90 damage from your Active Pokémon.",
@@ -8382,7 +8385,6 @@
     "rarity": "Rare Ultra",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {
