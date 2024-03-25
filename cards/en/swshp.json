@@ -14337,7 +14337,7 @@
     "number": "SWSH222",
     "artist": "kurumitsu",
     "rarity": "Promo",
-    "flavorText": "This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I've conferred upon this shell the name “scalchop.”",
+    "flavorText": "This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I've conferred upon this shell the name \"scalchop.\"",
     "nationalPokedexNumbers": [
       501
     ],
@@ -15550,8 +15550,8 @@
           "Fighting"
         ],
         "convertedEnergyCost": 2,
-        "damage": "100+ damage. You may do 100 more",
-        "text": "If you do, during your next turn, this Pokémon can't attack."
+        "damage": "100+",
+        "text": "You may do 100 more damage. If you do, during your next turn, this Pokémon can't attack."
       }
     ],
     "weaknesses": [
@@ -18158,6 +18158,130 @@
     }
   },
   {
+    "id": "swshp-SWSH285",
+    "name": "Pikachu V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "200",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Pikachu VMAX"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Pika Drive",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH285",
+    "artist": "You Iribi",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH285.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH285_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH286",
+    "name": "Pikachu VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX"
+    ],
+    "hp": "310",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Pikachu V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Tail Charge",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Attach up to 3 Lightning Energy cards from your discard pile to 1 of your Pokémon."
+      },
+      {
+        "name": "G-Max Thunder",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "250",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH286",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH286.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH286_hires.png"
+    }
+  },
+  {
     "id": "swshp-SWSH287",
     "name": "Morpeko V-UNION",
     "supertype": "Pokémon",
@@ -19217,7 +19341,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH306",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       493
     ],
@@ -19280,7 +19404,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH307",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo VSTAR",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       493
     ],

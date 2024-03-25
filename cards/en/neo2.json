@@ -574,7 +574,7 @@
           "Metal"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
+        "damage": "?",
         "text": "Does damage equal to half the Defending Pokémon's remaining HP (rounded down to the nearest 10)."
       },
       {
@@ -1748,7 +1748,7 @@
           "Metal"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
+        "damage": "?",
         "text": "Does damage equal to half the Defending Pokémon's remaining HP (rounded down to the nearest 10)."
       },
       {
@@ -2423,7 +2423,6 @@
     "types": [
       "Colorless"
     ],
-    "evolvesFrom": "Jigglypuff",
     "evolvesTo": [
       "Jigglypuff"
     ],
@@ -3927,7 +3926,6 @@
     "types": [
       "Fighting"
     ],
-    "evolvesFrom": "HitmonchanHitmonleeHitmontop",
     "evolvesTo": [
       "Hitmonlee",
       "Hitmonchan",
